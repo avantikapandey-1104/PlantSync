@@ -48,7 +48,9 @@ PlantSync is a full-stack AI-integrated mobile application that helps users diag
 - 🧾 Prediction Output Display
 
 
+
 👥 Team Members
+
 Avantika Pandey- Team Leader and Backend Developer
 
 Aashna Jain- Machine Learning Developer
