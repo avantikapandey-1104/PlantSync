@@ -4,24 +4,13 @@ PlantSync is a full-stack AI-integrated mobile application that helps users diag
 
 
 📦 Project Structure
-PlantSync/
-├── backend/
-│   ├── manage.py
-│   ├── home/
-│   │   ├── views.py
-│   │   ├── urls.py
-│   │   └── trained_model.h5
-│   └── settings.py
-├── frontend/
-│   └── lib/
-│       └── image_upload_screen.dart
-├── pubspec.yaml
-└── README.md
+
+<img width="569" height="374" alt="Screenshot 2025-07-19 000916" src="https://github.com/user-attachments/assets/95379736-7acd-4e4a-9d6b-ec790f1e7fb1" />
 
 
 ## 📸 Demo Screenshots
-![1](https://github.com/user-attachments/assets/ecb35270-401b-43ed-8ec3-0fa73533ff8b)
-    ![WhatsApp Image 2025-07-18 at 23 59 15_b4707524](https://github.com/user-attachments/assets/59b297d9-28b0-4787-8b46-be71d39edb17)     ![WhatsApp Image 2025-07-18 at 23 59 14_4e3a8719](https://github.com/user-attachments/assets/8ac3c621-5df5-4cf7-a6ae-6167e5f2a6e3)
+
+![3](https://github.com/user-attachments/assets/68f49f22-f2d9-4f5e-816e-3c89279034b1)   ![2](https://github.com/user-attachments/assets/bce3c908-8ac7-4d7e-9041-f9fdf427607a)   ![1](https://github.com/user-attachments/assets/ecb3815c-d1cc-4bf0-ac4b-2364fa3f76e0)
 
 
 ## 🚀 Live Features
