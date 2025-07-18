@@ -2,6 +2,8 @@
 
 PlantSync is a full-stack AI-integrated mobile application that helps users diagnose plant diseases simply by uploading an image of a plant leaf. Powered by Flutter for the frontend, Django for the backend, and a TensorFlow deep learning model, it predicts whether the plant is healthy or affected by a disease.
 
+Dataset- PlantVillage Dataset
+
 
 📦 Project Structure
 
