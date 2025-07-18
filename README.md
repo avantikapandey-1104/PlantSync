@@ -20,7 +20,8 @@ PlantSync/
 
 
 ## 📸 Demo Screenshots
-![WhatsApp Image 2025-07-18 at 23 59 15_de2d27f0](https://github.com/user-attachments/assets/349c533f-a4b6-406c-bafc-06dfca01876d)    ![WhatsApp Image 2025-07-18 at 23 59 15_b4707524](https://github.com/user-attachments/assets/59b297d9-28b0-4787-8b46-be71d39edb17)     ![WhatsApp Image 2025-07-18 at 23 59 14_4e3a8719](https://github.com/user-attachments/assets/8ac3c621-5df5-4cf7-a6ae-6167e5f2a6e3)
+![1](https://github.com/user-attachments/assets/ecb35270-401b-43ed-8ec3-0fa73533ff8b)
+    ![WhatsApp Image 2025-07-18 at 23 59 15_b4707524](https://github.com/user-attachments/assets/59b297d9-28b0-4787-8b46-be71d39edb17)     ![WhatsApp Image 2025-07-18 at 23 59 14_4e3a8719](https://github.com/user-attachments/assets/8ac3c621-5df5-4cf7-a6ae-6167e5f2a6e3)
 
 
 ## 🚀 Live Features
@@ -57,14 +58,11 @@ PlantSync/
 - 🔼 Upload Button
 - 🧾 Prediction Output Display
 
-**Flutter Dependencies:**
-```yaml
-dependencies:
-  http: ^0.13.6
-  image_picker: ^1.0.4
-  path: ^1.8.3
 
 👥 Team Members
 Avantika Pandey- Team Leader and Backend Developer
 Aashna Jain- Machine Learning Developer
 Daksh Singh- Frontend Developer
+
+
+
