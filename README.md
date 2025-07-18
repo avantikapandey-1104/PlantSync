@@ -10,9 +10,7 @@ PlantSync is a full-stack AI-integrated mobile application that helps users diag
 
 ## 📸 Demo Screenshots
 
-![3](https://github.com/user-attachments/assets/68f49f22-f2d9-4f5e-816e-3c89279034b1)          ![2](https://github.com/user-attachments/assets/bce3c908-8ac7-4d7e-9041-f9fdf427607a)   
-
-![1](https://github.com/user-attachments/assets/ecb3815c-d1cc-4bf0-ac4b-2364fa3f76e0)
+![3](https://github.com/user-attachments/assets/68f49f22-f2d9-4f5e-816e-3c89279034b1)          ![2](https://github.com/user-attachments/assets/bce3c908-8ac7-4d7e-9041-f9fdf427607a)   ![1](https://github.com/user-attachments/assets/ecb3815c-d1cc-4bf0-ac4b-2364fa3f76e0)
 
 
 ## 🚀 Live Features
