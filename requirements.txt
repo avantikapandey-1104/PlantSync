@@ -2,7 +2,7 @@
 Django==5.0.2
 djangorestframework==3.15.1
 
-# TensorFlow for plant disease prediction (CPU version for Render)
+# TensorFlow (Render supports 2.20.0 with Python <=3.11)
 tensorflow==2.20.0
 numpy==1.26.4
 
@@ -13,7 +13,9 @@ Pillow==10.3.0
 gunicorn==21.2.0
 whitenoise==6.6.0
 
-# Optional but common
+# Optional
 requests==2.31.0
-psycopg2-binary==2.9.9   # only if using PostgreSQL on Render
+psycopg2-binary==2.9.9  # only if using PostgreSQL on Render
+
+
 
